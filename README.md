@@ -4,7 +4,7 @@
 
 长期从事暖通空调与热泵设备的检测评价和标准化工作，研究空气源热泵现场性能、部分负荷能效与数据驱动预测；参与起草 GB/T 14296《空气冷却器与空气加热器》、GB/T 14294《组合式空调机组》等标准。著有《空气源热泵——北方清洁供热的绿色革命》（中国建筑工业出版社，2026）。
 
-[ORCID 0000-0001-6662-835X](https://orcid.org/0000-0001-6662-835X) · [Google Scholar](https://scholar.google.com/citations?user=JRnEXg0AAAAJ)
+[ORCID 0000-0001-6662-835X](https://orcid.org/0000-0001-6662-835X) · [Google Scholar](https://scholar.google.com/citations?user=JRnEXg0AAAAJ) · 合作与咨询 / Cooperation: [wangzhichao@chinaibee.com](mailto:wangzhichao@chinaibee.com)
 
 #### 开源项目 / Open-source projects
 
